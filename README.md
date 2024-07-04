@@ -1,6 +1,6 @@
 # Employee Attrition Prediction
 
-This model is about predicting weather employ will leave or stay in company in long based on various factors.
+This model is about predicting weather employ will leave or stay in company in long run based on various factors.
 
 ## Steps:
 
